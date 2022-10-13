@@ -12,3 +12,4 @@ Commands to download modules:
   - pip install numpy
   - pip install PyAutoGUI
   
+For more details please refer Instagram page: https://www.instagram.com/hack_smashes/
